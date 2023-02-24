@@ -1,5 +1,5 @@
 ---
-title: "Quantitative evaluation of Coulombic interactions in the oriented-attachment growth of nanotubes"
+title: "The evaluation of van der Waals interaction in the oriented-attachment growth of nanotubes"
 collection: publications
 permalink: /publication/2 2014-OPL-OA-CNT
 date: 2014-10-29
