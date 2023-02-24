@@ -87,11 +87,11 @@ author:
   bio              : "Data Scientist"
   location         :
   employer         :
-  pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/yuqian.zhang.1/bibliography/public/"
+  orcid            : "http://orcid.org/0000-0002-2800-6100"
+  googlescholar    : "https://scholar.google.com/citations?user=j9IFuSsAAAAJ&hl=en&oi=ao"
   email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yuqian-Zhang-7"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,15 +99,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "https://github.com/Evelyn-Zhang4"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jayrobwilliams"
-  mastodon         : "fosstodon.org/@jayrobw"
+  linkedin         : https://www.linkedin.com/in/yuqianevelynzhang/
+  mastodon         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
