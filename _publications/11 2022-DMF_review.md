@@ -1,7 +1,7 @@
 ---
 title: "Advances in integrated digital microfluidic platforms for point-of-care diagnosis: a review"
 collection: publications
-permalink: /publication/9 2022-DMF_review
+permalink: /publication/11 2022-DMF_review
 date: 2022-05-23
 venue: 'Sensors & Diagnostics'
 paperurl: '/files/pdf/research/paper11.pdf'
