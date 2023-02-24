@@ -2,6 +2,9 @@
 permalink: /teaching/
 title: "Presentations/Posters"
 ---
+## 27th Annual Balfour Surgery Research Symposium, Nov 12th, Rochester, MN, USA
+- Titile: A microfluidic platform for sensitive bacterial detection in blood through whole genome sequencing within 4 hours
+    - [Poster](/files/pdf/teaching/CIM_poster.tif)
 
 ## Biophysical Society, Feb 15th- 19th 2020, San Diego, CA, USA
 - Titile: 
