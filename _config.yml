@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuqian Zhang/张玉倩"
 title_separator          : "-"
-name                     : &name "Yuqian (Evelyn) Zhang"
+name                     : name "Yuqian (Evelyn) Zhang"
 description              : &description "evelyn4zhang[AT]gmail[DOT]com"
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,15 +82,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuqian Zhang"
+  name             : "Yuqian (Evelyn) Zhang"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
+  bio              : ""
   location         :
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/yuqian.zhang.1/bibliography/public/"
   orcid            : "http://orcid.org/0000-0002-2800-6100"
   googlescholar    : "https://scholar.google.com/citations?user=j9IFuSsAAAAJ&hl=en&oi=ao"
-  email            : "rob.williams@wustl.edu"
+  email            : "evelyn4zhang@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yuqian-Zhang-7"
   uri              :
   bitbucket        :
