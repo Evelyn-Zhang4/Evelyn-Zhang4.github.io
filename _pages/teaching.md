@@ -27,8 +27,8 @@ title: "Presentations/Posters"
     - [Slides](/files/pdf/teaching/ISEV 2019.pdf)
 
 ## Biophysical Society, Feb 17th- 22th 2018, San Francisco, CA, USA
-- Titile: 
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
+- Titile: Amplification-Free Detection of Micrornas Related to Clear Cell Renal Cell Carcinoma Utilizing a Novel Nanopore-Based Sensor
+    - [Syllabus](/files/pdf/teaching/paper8.pdf)
 
 ## Miniaturized Systems for Chemistry and Life Sciences (µTAS), Oct.17th- 23rd 2017, Savannah, GA, USA
 - Titile: NANOPORE BASED SENSOR FOR SEQUENCE SPECIFIC MICRORNA DETECTION
