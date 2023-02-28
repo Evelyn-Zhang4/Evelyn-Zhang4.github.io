@@ -28,21 +28,21 @@ title: "Presentations/Posters"
 
 ## Biophysical Society, Feb 17th- 22th 2018, San Francisco, CA, USA
 - Titile: Amplification-Free Detection of Micrornas Related to Clear Cell Renal Cell Carcinoma Utilizing a Novel Nanopore-Based Sensor
-    - [Syllabus](/files/pdf/teaching/paper8.pdf)
+    - [Abstract](/files/pdf/teaching/paper8.pdf)
 
 ## Miniaturized Systems for Chemistry and Life Sciences (µTAS), Oct.17th- 23rd 2017, Savannah, GA, USA
 - Titile: NANOPORE BASED SENSOR FOR SEQUENCE SPECIFIC MICRORNA DETECTION
-    - [Syllabus](/files/pdf/teaching/MicroTAS2017_poster .pdf)
+    - [Poster](/files/pdf/teaching/MicroTAS2017_poster .pdf)
 
 ## Center for Advanced Design & Manufacturing of Integrated Microfluidics (CADMIM), Sep. 7th 2016, Cincinnati, OH, USA
 - Titile: 
     - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
 
 ## EMBS Micro and Nanotechnology in Medicine Conference, Dec.12th-16th 2016, Waikoloa, HI, USA (Win the second place)
-- Titile: 
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
+- Titile: Simultaneous detection of multiple charged particles using a borosilicate nanopore-based sensor 
+    - [Poster](/files/pdf/teaching/IEEENano-talk-2016.pdf)
 
 ## IEEE-Engineering in Medicine and Biology Society, Aug 15th-19th 2016, Orlando, FL, USA
-- Titile: 
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
+- Titile: Quantitative Estimation of Electro-osmosis Force on Charged Particles inside a Borosilicate Resistive-Pulse Sensor
+    - [Poster](/files/pdf/teaching/IEEE-EMBC.pdf)
 
