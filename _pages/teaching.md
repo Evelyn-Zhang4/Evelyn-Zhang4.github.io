@@ -31,7 +31,7 @@ title: "Presentations/Posters"
     - [Abstract](/files/pdf/teaching/paper8.pdf)
 
 ## Miniaturized Systems for Chemistry and Life Sciences (µTAS), Oct.17th- 23rd 2017, Savannah, GA, USA
-- Titile: NANOPORE BASED SENSOR FOR SEQUENCE SPECIFIC MICRORNA DETECTION
+- Titile: Nanopore based sensor for sequence specific microRNA detection
     - [Poster](/files/pdf/teaching/MicroTAS2017_poster .pdf)
 
 ## Center for Advanced Design & Manufacturing of Integrated Microfluidics (CADMIM), Sep. 7th 2016, Cincinnati, OH, USA
