@@ -2,9 +2,17 @@
 permalink: /teaching/
 title: "Presentations/Posters"
 ---
-## 27th Annual Balfour Surgery Research Symposium, Nov 12th, Rochester, MN, USA
+## 28th Annual Balfour Surgery Research Symposium, Nov 11th 2022, Rochester, MN, USA
+- Titile: A digital microfluidic-based electrochemical impedance spectroscopy for cell-based immunoassay in a dynamic mode
+    - [Poster]()
+
+## Miniaturized Systems for Chemistry and Life Sciences (µTAS), Oct.23th- 27th 2022, Hangzhou, China.
+- Titile: A digital microfluidics-based electrochemical impedance spectroscopy for cell-based immunoassay detection in a dynamic mode
+    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
+
+## 27th Annual Balfour Surgery Research Symposium, Nov 12th 2021, Rochester, MN, USA
 - Titile: A microfluidic platform for sensitive bacterial detection in blood through whole genome sequencing within 4 hours
-    - [Poster](/files/pdf/teaching/CIM_poster.tif)
+    - [Poster]()
 
 ## Biophysical Society, Feb 15th- 19th 2020, San Diego, CA, USA
 - Titile: 
