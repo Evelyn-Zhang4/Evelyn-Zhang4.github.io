@@ -6,7 +6,7 @@ title: "Presentations/Posters"
 - Titile: A digital microfluidic-based electrochemical impedance spectroscopy for cell-based immunoassay in a dynamic mode
     - [Poster](/files/pdf/teaching/CIM_poster_11-11-22.pdf)
 
-## Miniaturized Systems for Chemistry and Life Sciences (µTAS), Oct.23th- 27th 2022, Hangzhou, China.
+## Miniaturized Systems for Chemistry and Life Sciences (µTAS), Oct.23th- 27th 2022, Hangzhou, China
 - Titile: A digital microfluidics-based electrochemical impedance spectroscopy for cell-based immunoassay detection in a dynamic mode
     - [Slides](/files/pdf/teaching/microtas2022_YZ_V2_YL.pdf)
 
@@ -18,19 +18,23 @@ title: "Presentations/Posters"
 - Titile: 
     - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
 
-## Biomedical Engineering Society, Oct. 16th – 19th 2019, Philadelphia, PA, USA.
+## Biomedical Engineering Society, Oct. 16th – 19th 2019, Philadelphia, PA, USA
 - Titile: 
     - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
 
-## Biophysical Society, Feb 17th- 22th 2018, San Francisco, CA, USA.
+## International Society for Extracellular Vesicles, Apr. 24th – 28th 2019, Kyoto, Japan
+- Titile: 
+    - [Syllabus](/files/pdf/teaching/ISEV 2019.pdf)
+
+## Biophysical Society, Feb 17th- 22th 2018, San Francisco, CA, USA
 - Titile: 
     - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
 
-## Miniaturized Systems for Chemistry and Life Sciences (µTAS), Oct.17th- 23rd 2017, Savannah, GA, USA.
+## Miniaturized Systems for Chemistry and Life Sciences (µTAS), Oct.17th- 23rd 2017, Savannah, GA, USA
 - Titile: 
     - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
 
-## Center for Advanced Design & Manufacturing of Integrated Microfluidics (CADMIM), Sep. 7th 2016, Cincinnati, OH, USA.
+## Center for Advanced Design & Manufacturing of Integrated Microfluidics (CADMIM), Sep. 7th 2016, Cincinnati, OH, USA
 - Titile: 
     - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
 
