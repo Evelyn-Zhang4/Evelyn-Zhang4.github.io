@@ -15,8 +15,8 @@ title: "Presentations/Posters"
     - [Poster](/files/pdf/teaching/CIM_poster_11-12-21.pdf)
 
 ## Biophysical Society, Feb 15th- 19th 2020, San Diego, CA, USA
-- Titile: 
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
+- Titile: Biophysical Characterization of Exosomes Based on their Unique Dielectric Properties
+    - [Abstract](/files/pdf/teaching/paper10.pdf)
 
 ## Biomedical Engineering Society, Oct. 16th – 19th 2019, Philadelphia, PA, USA
 - Titile: Characterization of Exosomes Based on Their Unique Dielectric Properties by A Novel Electrical Impedance Measurement System
