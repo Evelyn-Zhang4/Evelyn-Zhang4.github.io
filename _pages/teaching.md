@@ -35,8 +35,8 @@ title: "Presentations/Posters"
     - [Poster](/files/pdf/teaching/MicroTAS2017_poster .pdf)
 
 ## Center for Advanced Design & Manufacturing of Integrated Microfluidics (CADMIM), Sep. 7th 2016, Cincinnati, OH, USA
-- Titile: 
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
+- Titile: Sequence specific microRNA detection by induced electroosmosis flow inside a borosilicate capillary
+    - [Poster](/files/pdf/teaching/MNM poster-final.pdf)
 
 ## EMBS Micro and Nanotechnology in Medicine Conference, Dec.12th-16th 2016, Waikoloa, HI, USA (Win the second place)
 - Titile: Simultaneous detection of multiple charged particles using a borosilicate nanopore-based sensor 
