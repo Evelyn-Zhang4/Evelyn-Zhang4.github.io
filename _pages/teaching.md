@@ -20,11 +20,11 @@ title: "Presentations/Posters"
 
 ## Biomedical Engineering Society, Oct. 16th – 19th 2019, Philadelphia, PA, USA
 - Titile: 
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
+    - [Poster](/files/pdf/teaching/BMES 2019_POSTER_ 10-11-19.pdf)
 
 ## International Society for Extracellular Vesicles, Apr. 24th – 28th 2019, Kyoto, Japan
-- Titile: 
-    - [Syllabus](/files/pdf/teaching/ISEV 2019.pdf)
+- Titile: Characterization of exosomes based on their unique dielectric properties by a novel electrical impedance measurement system
+    - [Slides](/files/pdf/teaching/ISEV 2019.pdf)
 
 ## Biophysical Society, Feb 17th- 22th 2018, San Francisco, CA, USA
 - Titile: 
