@@ -1,5 +1,5 @@
 ---
-title: "### Quantitative evaluation of Coulombic interactions in the oriented-attachment growth of nanotubes"
+title: "Quantitative evaluation of Coulombic interactions in the oriented-attachment growth of nanotubes"
 collection: publications
 permalink: /publication/1 2013-analyst-OA-CNT
 date: 2013-10-29
