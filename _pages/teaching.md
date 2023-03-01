@@ -18,7 +18,7 @@ title: "Presentations/Posters"
 - Titile: Characterization of Exosomes Based on Their Unique Dielectric Properties by A Novel Electrical Impedance Measurement System - [Poster](/files/pdf/teaching/BMES 2019_POSTER_ 10-11-19.pptx)
 
 ### International Society for Extracellular Vesicles, Apr. 24th – 28th 2019, Kyoto, Japan
-- Titile: Characterization of exosomes based on their unique dielectric properties by a novel electrical impedance measurement system - [Slides](/files/pdf/teaching/ISEV 2019.pdf)
+- Titile: Characterization of exosomes based on their unique dielectric properties by a novel electrical impedance measurement system - [Slides]
 
 ### Biophysical Society, Feb 17th- 22th 2018, San Francisco, CA, USA
 - Titile: Amplification-Free Detection of Micrornas Related to Clear Cell Renal Cell Carcinoma Utilizing a Novel Nanopore-Based Sensor - [Abstract](/files/pdf/teaching/paper8.pdf)
@@ -30,7 +30,7 @@ title: "Presentations/Posters"
 - Titile: Sequence specific microRNA detection by induced electroosmosis flow inside a borosilicate capillary - [Poster](/files/pdf/teaching/MNM poster-final.pdf)
 
 ### EMBS Micro and Nanotechnology in Medicine Conference, Dec.12th-16th 2016, Waikoloa, HI, USA (Win the second place)
-- Titile: Simultaneous detection of multiple charged particles using a borosilicate nanopore-based sensor - [Poster](/files/pdf/teaching/IEEENano-talk-2016.pdf)
+- Titile: Simultaneous detection of multiple charged particles using a borosilicate nanopore-based sensor - [Poster]
 
 ### IEEE-Engineering in Medicine and Biology Society, Aug 15th-19th 2016, Orlando, FL, USA
 - Titile: Quantitative Estimation of Electro-osmosis Force on Charged Particles inside a Borosilicate Resistive-Pulse Sensor  - [Poster](/files/pdf/teaching/IEEE-EMBC.pdf)
