@@ -1,5 +1,5 @@
 ---
-permalink: /presentation/
+permalink: /teaching/
 title: "Presentations/Posters"
 ---
 ### 28th Annual Balfour Surgery Research Symposium, Nov 11th 2022, Rochester, MN, USA
