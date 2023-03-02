@@ -1,18 +1,37 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
-author_profile: true
+title: "Publications"
 ---
+### Quantitative evaluation of Coulombic interactions in the oriented-attachment growth of nanotubes
+- Zhang, Y., He, W., Wen, K., Wang, X., Lu, H., Lin, X. and Dickerson, J.H., 2013. Analyst, 139(2), pp.371-374. - [PDF](/files/pdf/research/paper1.pdf) - [Link](https://pubs.rsc.org/en/content/articlelanding/2013/an/c3an01261a/unauth)
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Miniaturized Systems for Chemistry and Life Sciences (µTAS), Oct.23th- 27th 2022, Hangzhou, China
+- Titile: A digital microfluidics-based electrochemical impedance spectroscopy for cell-based immunoassay detection in a dynamic mode - [Slides](/files/pdf/teaching/microtas2022_YZ_V2_YL.pdf)
 
-{% include base_path %}
+### 27th Annual Balfour Surgery Research Symposium, Nov 12th 2021, Rochester, MN, USA
+- Titile: A microfluidic platform for sensitive bacterial detection in blood through whole genome sequencing within 4 hours - [Poster](/files/pdf/teaching/CIM_poster_11-12-21.pdf)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Biophysical Society, Feb 15th- 19th 2020, San Diego, CA, USA
+- Titile: Biophysical Characterization of Exosomes Based on their Unique Dielectric Properties - [Abstract](/files/pdf/teaching/paper10.pdf)
 
-<sup>*</sup> Equal authorship
+### Biomedical Engineering Society, Oct. 16th – 19th 2019, Philadelphia, PA, USA
+- Titile: Characterization of Exosomes Based on Their Unique Dielectric Properties by A Novel Electrical Impedance Measurement System - [Poster](/files/pdf/teaching/BMES 2019_POSTER_ 10-11-19.pptx)
+
+### International Society for Extracellular Vesicles, Apr. 24th – 28th 2019, Kyoto, Japan
+- Titile: Characterization of exosomes based on their unique dielectric properties by a novel electrical impedance measurement system - [Slides]
+
+### Biophysical Society, Feb 17th- 22th 2018, San Francisco, CA, USA
+- Titile: Amplification-Free Detection of Micrornas Related to Clear Cell Renal Cell Carcinoma Utilizing a Novel Nanopore-Based Sensor - [Abstract](/files/pdf/teaching/paper8.pdf)
+
+### Miniaturized Systems for Chemistry and Life Sciences (µTAS), Oct.17th- 23rd 2017, Savannah, GA, USA
+- Titile: Nanopore based sensor for sequence specific microRNA detection - [Poster](/files/pdf/teaching/MicroTAS2017_poster .pdf)
+
+### Center for Advanced Design & Manufacturing of Integrated Microfluidics (CADMIM), Sep. 7th 2016, Cincinnati, OH, USA
+- Titile: Sequence specific microRNA detection by induced electroosmosis flow inside a borosilicate capillary - [Poster](/files/pdf/teaching/MNM poster-final.pdf)
+
+### EMBS Micro and Nanotechnology in Medicine Conference, Dec.12th-16th 2016, Waikoloa, HI, USA (Win the second place)
+- Titile: Simultaneous detection of multiple charged particles using a borosilicate nanopore-based sensor - [Poster]
+
+### IEEE-Engineering in Medicine and Biology Society, Aug 15th-19th 2016, Orlando, FL, USA
+- Titile: Quantitative Estimation of Electro-osmosis Force on Charged Particles inside a Borosilicate Resistive-Pulse Sensor  - [Poster](/files/pdf/teaching/IEEE-EMBC.pdf)
+
