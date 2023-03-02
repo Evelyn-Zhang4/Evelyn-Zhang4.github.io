@@ -2,6 +2,21 @@
 permalink: /publications/
 title: "Publications"
 ---
+### A Digital Microfluidic Device Integrated with Electrochemical Impedance Spectroscopy for Cell-Based Immunoassay
+- Zhang, Y. and Liu, Y., 2022. Biosensors, 12(5), p.330. - [PDF](/files/pdf/research/paper13.pdf) - [Link](https://www.mdpi.com/2079-6374/12/5/330)
+
+### A Label-Free Electrical Impedance Spectroscopy for Detection of Clusters of Extracellular Vesicles Based on Their Unique Dielectric Properties
+- Zhang, Y., Murakami, K., Borra, V.J., Ozen, M.O., Demirci, U., Nakamura, T. and Esfandiari, L., 2022. Biosensors, 12(2), p.104. - [PDF](/files/pdf/research/paper12.pdf) - [Link](https://www.mdpi.com/2079-6374/12/2/104)
+
+### Advances in integrated digital microfluidic platforms for point-of-care diagnosis: a review
+- Zhang, Y. and Liu, Y., 2022. Sensors & Diagnostics. - [PDF](/files/pdf/research/paper11.pdf) - [Link](https://pubs.rsc.org/en/content/articlehtml/2022/sd/d2sd00031h)
+
+### Biophysical Characterization of Exosomes Based on their Unique Dielectric Properties
+- Zhang, Y., Shi, L. and Esfandiari, L., 2020. Biophysical Journal, 118(3), p.175a. - [PDF](/files/pdf/research/paper10.pdf) - [Link](https://www.cell.com/biophysj/fulltext/S0006-3495(19)32003-X)
+
+### A rapid bioanalytical tool for detection of sequence-specific circular DNA and mitochondrial DNA point mutations
+- Zhang, Y., Kaynak, A., Huang, T. and Esfandiari, L., 2019. Analytical and bioanalytical chemistry, 411, pp.1935-1941. - [PDF](/files/pdf/research/paper9.pdf) - [Link](https://link.springer.com/article/10.1007/s00216-019-01683-8)
+
 ### Amplification-Free Detection of Micrornas Related to Clear Cell Renal Cell Carcinoma Utilizing a Novel Nanopore-Based Sensor
 - Zhang, Y., Rana, A., Czyzyk-Krzesk, M.F. and Esfandiari, L., 2018. Biophysical Journal, 114(3), p.687a. - [PDF](/files/pdf/research/paper8.pdf) - [Link](https://www.cell.com/biophysj/fulltext/S0006-3495(17)34937-8)
 
