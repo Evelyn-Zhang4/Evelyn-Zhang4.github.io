@@ -2,6 +2,18 @@
 permalink: /publications/
 title: "Publications"
 ---
+### Amplification-Free Detection of Micrornas Related to Clear Cell Renal Cell Carcinoma Utilizing a Novel Nanopore-Based Sensor
+- Zhang, Y., Rana, A., Czyzyk-Krzesk, M.F. and Esfandiari, L., 2018. Biophysical Journal, 114(3), p.687a. - [PDF](/files/pdf/research/paper8.pdf) - [Link](https://www.cell.com/biophysj/fulltext/S0006-3495(17)34937-8)
+
+### Advancements in microfluidic technologies for isolation and early detection of circulating cancer-related biomarkers
+- Rana, A., Zhang, Y. and Esfandiari, L., 2018. Analyst, 143(13), pp.2971-2991. - [PDF](/files/pdf/research/paper7.pdf) - [Link](https://pubs.rsc.org/en/content/articlelanding/2017/sc/c7an01965c/unauth)
+
+### Sequence-Specific Detection of MicroRNAs Related to Clear Cell Renal Cell Carcinoma at fM Concentration by an Electroosmotically Driven Nanopore-Based Device
+- Zhang, Y., Rana, A., Stratton, Y., Czyzyk-Krzeska, M.F. and Esfandiari, L., 2017. 89(17), pp.9201-9208. - [PDF](/files/pdf/research/paper6.pdf) - [Link](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b01944)
+
+### Simultaneous detection of multiple charged particles using a borosilicate nanopore-based sensor
+- Zhang, Y. and Esfandiari, L., 2016, August. In 2016 IEEE 16th International Conference on Nanotechnology (IEEE-NANO) (pp. 293-296). IEEE. - [PDF](/files/pdf/research/paper5.pdf) - [Link](https://ieeexplore.ieee.org/abstract/document/7751512)
+
 ### Quantitative estimation of electro-osmosis force on charged particles inside a borosilicate resistive-pulse sensor
 - Ghobadi, M., Zhang, Y., Rana, A., Esfahani, E.T. and Esfandiari, L., 2016, August. In 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (pp. 4228-4231). IEEE. - [PDF](/files/pdf/research/paper4.pdf) - [Link](https://ieeexplore.ieee.org/abstract/document/7591660)
 
