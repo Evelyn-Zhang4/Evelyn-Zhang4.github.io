@@ -1,22 +1,38 @@
 ---
-title: "Conflict event data"
+title: "Nanopore-based biosensor"
 layout: single-portfolio
-excerpt: "<img src='/images/research/map.png' alt=''>"
+excerpt: "<img src='/images/research/Nanopore_TOC.png' alt=''>"
 collection: research
 order_number: 20
 header: 
-  og_image: "research/map.png"
+  og_image: "research/Nanopore_TOC.png"
 ---
 
 In this set of projects, I leverage geospatial event data to explore the microlevel dynamics of political violence. What role can violence at the local level serve in advancing broader political ends? What explains patterns of action and reaction between actors engaged in different types of political violence? How do the differing roles the UN peacekeepers play affect the likelihood that rebel fighters will target them?
 
-## Article
+## Article 1
 
-Christian Oswald, Melanie Sauter, Sigrid Weber, and Rob Williams. "Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone." *International Studies Quarterly*.
+Zhang, Y., Rana, A., Stratton, Y., Czyzyk-Krzeska, M.F. and Esfandiari, L.. "Sequence-Specific Detection of MicroRNAs Related to Clear Cell Renal Cell Carcinoma at fM Concentration by an Electroosmotically Driven Nanopore-Based Device" *International Studies Quarterly*.
 
-> Do rebels target civilians as part of the process of establishing control in their territories? This research note shows that transition periods after rebels gain territorial control are remarkably violent for civilians. Speaking to the civilian victimization and rebel governance literature, we investigate the immediate time period after rebels successfully capture and hold territory. We argue that rebels use violence to gain compliance in newly captured territories until they are able to build up local capacities and institutions for peaceful governance. To test this argument, we draw on methodological advances in integrating event data and combine multiple datasets to study patterns of violence perpetrated by the Revolutionary United Front in Sierra Leone from 1997-2001. The findings of our spatiotemporal analysis show that civilian targeting increases in the period after rebels capture territory from the government compared to areas without territorial takeover, suggesting that life under the roof of rebels is initially more dangerous for civilians.
+> MicroRNAs (miRs) are small noncoding RNAs that play a critical role in gene regulation. Recently, traces of cancer-related miRs have been identified in body fluids, which make them remarkable noninvasive biomarkers. In this study, a new nanopore-based detection scheme utilizing a borosilicate micropipette and an assay of complementary γ-peptide nucleic acid (γ-PNA) probes conjugated to polystyrene beads have been reported for the detection of miR-204 and miR-210 related to the clear cell Renal Cell Carcinoma (ccRCC). Electroosmotic flow (EOF) is induced as the driving force to transport PNA-beads harboring target miRs to the tip of the pore (sensing zone), which results in pore blockades with unique and easily distinguishable serrated shape electrical signals. The concentration detection limit is investigated to be 1 and 10 fM for miR-204 and miR-210, respectively. The EOF transport mechanism enables highly sensitive detection of molecules with low surface charge density with 97.6% detection accuracy compared to the conventional electrophoretically driven methods. Furthermore, resistive-pulse experiments are conducted to study the correlation of the particles’ surface charge density with their translocation time and verify the detection principle.
 
-[Article](https://doi.org/10.1093/isq/sqaa009){: .btn--research} [Preprint](/files/pdf/research/Under the Roof of Rebels.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Under the Roof of Rebels SI.pdf){: .btn--research} [Replication Archive](https://doi.org/10.7910/DVN/BEKPWV){: .btn--research}
+[Article](https://pubs.acs.org/doi/full/10.1021/acs.analchem.7b01944){: .btn--research} [Supplemental Information](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b01944){: .btn--research}
+
+### Sequence-specific detection of small microRNAs 
+
+<img src='/images/research/Nanopore_TOC.png' alt=''>
+
+## Article 2
+
+Zhang, Y., Kaynak, A., Huang, T. and Esfandiari, L.. "A rapid bioanalytical tool for detection of sequence-specific circular DNA and mitochondrial DNA point mutations" *International Studies Quarterly*.
+
+> Mutations in mitochondrial DNA (mtDNA) have been an essential cause of numerous diseases, making their identification critically important. The majority of mtDNA screening techniques require polymerase chain reaction (PCR) amplification, enzymatic digestion, and denaturation procedures, which are laborious and costly. Herein, we developed a sensitive PCR-free electrokinetic-based sensor combined with a customized bis-peptide nucleic acid (bis-PNA) and gamma-PNA (γ-PNA) probes immobilized on beads, for the detection of mtDNA point mutations and sequence-specific supercoiled plasmid DNA at the picomolar range. The probes are capable of invading the double-stranded circular DNA and forming a stable triplex structure. Thus, this method can significantly reduce the sample preparation and omit the PCR amplification steps prior to sensing. Further, this bioanalytical tool can open up a new paradigm in clinical settings for the screening of double-stranded circular nucleic acids with a single-base mismatch specificity in a rapid and sensitive manner.
+
+[Article](https://link.springer.com/article/10.1007/s00216-019-01683-8){: .btn--research} 
+
+### Sequence-specific detection of circular DNA 
+
+<img src='/images/research/nanopore_mtDNA.png' alt=''>
 
 ## Working papers
 
