@@ -12,7 +12,7 @@ In this research, I explore the integration of digital microfluidic (DMF) platfo
 
 Digital microfluidics (DMF) has gained attention as an ideal candidate for point-of-care (POC) testing due to its liquid manipulation technology that can manipulate droplets on a planar electrode surface under applied voltage based on the electrowetting-on-dielectric (EWOD) principle. DMF devices can operate droplets in an automated and programmable way with minimally trained individuals, and they can be reconfigured on-demand for different applications such as immunological assays, cell-based assays, and DNA amplification. Electrical-based detection is a promising sensing strategy that can be integrated into DMF platforms due to the convenience of integrating electrical sensors into systems composed of electrode arrays. The merging of electrical-based sensors and DMF platforms has enabled various POC applications, particularly immunoassays. So far, electrical sensors have been integrated into DMF platforms for the detection of antigen molecules and rubella virus with high sensitivity and selectivity. These detections are usually based on enzyme-linked immunoassay (ELISA), which immobilizes target molecules on solid surfaces such as magnetic beads and labels captured molecules with enzyme-tagged secondary antibodies. Targets can be quantified by measuring their electrochemical oxidation in the presence of redox probes via amperometric or potentiometric transduction principles using electrochemical electrodes housed on the DMF substrates.
 
-## Article
+## Article 1
 
 Yuqian Zhang. "Advances in integrated digital microfluidic platforms for point-of-care diagnosis: a review." *A review paper describing the current technologies of integrated digital microfluidic platforms*.
 
@@ -20,18 +20,22 @@ Yuqian Zhang. "Advances in integrated digital microfluidic platforms for point-o
 
 [Article](https://pubs.rsc.org/en/content/articlehtml/2022/sd/d2sd00031h){: .btn--research}
 
-Integrated digital microfluidic platforms 
+# Integrated digital microfluidic platforms 
 
 <img src='/images/research/DMF_TOC.png' alt=''>
 
 
-## Article
+## Article 2
 
-Yuqian Zhang. "A Digital Microfluidic Device Integrated with Electrochemical Impedance Spectroscopy for Cell-Based Immunoassay." *A research reporting an integrated DMF platform for PBMC abudance detection*.
+Yuqian Zhang. "A Digital Microfluidic Device Integrated with Electrochemical Impedance Spectroscopy for Cell-Based Immunoassay." *A research reporting an integrated DMF platform for quantifying PBMC abudance*.
 
 > The dynamic immune response to various diseases and therapies has been considered a promising indicator of disease status and therapeutic effectiveness. For instance, the human peripheral blood mononuclear cell (PBMC), as a major player in the immune system, is an important index to indicate a patient’s immune function. Therefore, establishing a simple yet sensitive tool that can frequently assess the immune system during the course of disease and treatment is of great importance. This study introduced an integrated system that includes an electrochemical impedance spectroscope (EIS)-based biosensor in a digital microfluidic (DMF) device, to quantify the PBMC abundance with minimally trained hands. Moreover, we exploited the unique droplet manipulation feature of the DMF platform and conducted a dynamic cell capture assay, which enhanced the detection signal by 2.4-fold. This integrated system was able to detect as few as 104 PBMCs per mL, presenting suitable sensitivity to quantify PBMCs. This integrated system is easy-to-operate and sensitive, and therefore holds great potential as a powerful tool to profile immune-mediated therapeutic responses in a timely manner, which can be further evolved as a point-of-care diagnostic device to conduct near-patient tests from blood samples.
 
-[Article](https://www.mdpi.com/2079-6374/12/5/330)
+[Article](https://www.mdpi.com/2079-6374/12/5/330){: .btn--research}
+
+# Integrated digital microfluidic platforms 
+
+<img src='/images/research/DMF_PMBC.png' alt=''>
 
 ## Manuscript in preparation
 
