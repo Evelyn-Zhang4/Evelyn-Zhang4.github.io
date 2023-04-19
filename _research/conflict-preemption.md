@@ -20,9 +20,13 @@ Yuqian Zhang. "Advances in integrated digital microfluidic platforms for point-o
 
 [Article](https://pubs.rsc.org/en/content/articlehtml/2022/sd/d2sd00031h)
 
----
-header:
-  og_image: "research/DMF2.png"
+title: "Diagram of Digital Microfluidics"
+layout: single-portfolio
+excerpt: "<img src='/images/research/DMF2.png' alt=''>"
+collection: research
+order_number: 10
+header: 
+  og_image: "/images/research/DMF2.png"
 ---
 
 ## Article
