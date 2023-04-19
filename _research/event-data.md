@@ -32,7 +32,7 @@ Zhang, Y., Rana, A., Stratton, Y., Czyzyk-Krzeska, M.F. and Esfandiari, L.. "Seq
 
 ### Sequence-specific detection of small microRNAs 
 
-<img src='/images/research/Nanopore_TOC2.png' alt=''>
+<img src='/images/research/Nanopore_TOC.png' alt=''>
 
 ## Article 3
 
