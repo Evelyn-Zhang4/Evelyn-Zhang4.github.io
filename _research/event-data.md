@@ -32,7 +32,7 @@ Zhang, Y., Kaynak, A., Huang, T. and Esfandiari, L.. "A rapid bioanalytical tool
 
 ### Sequence-specific detection of circular DNA 
 
-<img src='/images/research/nanopore_mtDNA2.png' alt=''>
+<img src='/images/research/nanopore_mtDNA.png' alt=''>
 
 ## Working papers
 
