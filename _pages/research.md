@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  og_image: "research/ecdf.png"
+  og_image: "research/DMF2.png"
 ---
 
 My academic research falls into two main areas: 
