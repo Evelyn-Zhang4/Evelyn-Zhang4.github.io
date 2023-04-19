@@ -8,7 +8,7 @@ header:
   og_image: "/images/research/DMF2.png"
 ---
 
-In this research, I explor the integration of digital microfluidic (DMF) platform into biosensor for point-of-care testing in an automated and sensitive manner. By deploying cell-based/protein-based immunoassays to the electrochemical biosensors
+In this research, I explore the integration of digital microfluidic (DMF) platform into biosensor for point-of-care testing in an automated and sensitive manner. By deploying cell-based/protein-based immunoassays to the electrochemical biosensors
 
 Digital microfluidics (DMF) has gained attention as an ideal candidate for point-of-care (POC) testing due to its liquid manipulation technology that can manipulate droplets on a planar electrode surface under applied voltage based on the electrowetting-on-dielectric (EWOD) principle. DMF devices can operate droplets in an automated and programmable way with minimally trained individuals, and they can be reconfigured on-demand for different applications such as immunological assays, cell-based assays, and DNA amplification. Electrical-based detection is a promising sensing strategy that can be integrated into DMF platforms due to the convenience of integrating electrical sensors into systems composed of electrode arrays. The merging of electrical-based sensors and DMF platforms has enabled various POC applications, particularly immunoassays. So far, electrical sensors have been integrated into DMF platforms for the detection of antigen molecules and rubella virus with high sensitivity and selectivity. These detections are usually based on enzyme-linked immunoassay (ELISA), which immobilizes target molecules on solid surfaces such as magnetic beads and labels captured molecules with enzyme-tagged secondary antibodies. Targets can be quantified by measuring their electrochemical oxidation in the presence of redox probes via amperometric or potentiometric transduction principles using electrochemical electrodes housed on the DMF substrates.
 
@@ -18,10 +18,11 @@ Yuqian Zhang. "Advances in integrated digital microfluidic platforms for point-o
 
 > Prompt, reliable and specific detection techniques in portable and easy-to-operate systems are of paramount importance to medical diagnosis, especially in emergencies such as pandemic outbreaks or in resource-limited settings. Point-of-care (POC) testing platforms can offer accurate screening in a timely manner, making these tools ideal under these circumstances. Digital microfluidics (DMF) is a fluid handling technology that enables programmable manipulation of discrete droplets (picoliter to microliter range) on a planar surface featured with electrodes, by changing the surface tension of droplets using electric fields. This technology allows user-defined droplet manipulation such as dispensing, mixing, splitting and merging, and thus the platform can be reconfigured for various assays. Although efforts have been undertaken to optimize the accuracy of fluid handling in DMF devices, implementing these devices for POC testing requires the integration of various detection techniques for on-chip assays. In this review, we highlight recent advancements in the integration of analytical tools into DMF devices, and discuss the current challenges and potential solutions as well as future outlooks for an automated, integrative platform for POC applications.
 
-[Article](https://pubs.rsc.org/en/content/articlehtml/2022/sd/d2sd00031h)
+[Article](https://pubs.rsc.org/en/content/articlehtml/2022/sd/d2sd00031h){: .btn--research}
 
-Diagram of Digital Microfluidics
-<img src='/images/research/DMF2.png' alt=''>
+Integrated digital microfluidic platforms 
+
+<img src='/images/research/DMF_TOC.png' alt=''>
 
 
 ## Article
