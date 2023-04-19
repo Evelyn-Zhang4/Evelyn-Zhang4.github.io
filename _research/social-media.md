@@ -1,11 +1,11 @@
 ---
-title: "Social media data"
+title: "COMSOL"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ternary.png' alt=''>"
+excerpt: "<img src='/images/research/comsol_nanopore_ep.png' alt=''>"
 collection: research
 order_number: 40
 header: 
-  og_image: "research/ternary.png"
+  og_image: "research/comsol_nanopore_ep.png"
 ---
 
 In these projects I leverage social media data to study the early stages of
