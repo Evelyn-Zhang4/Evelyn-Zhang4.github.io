@@ -20,7 +20,7 @@ Yuqian Zhang. "Advances in integrated digital microfluidic platforms for point-o
 
 [Article](https://pubs.rsc.org/en/content/articlehtml/2022/sd/d2sd00031h){: .btn--research}
 
-# Integrated digital microfluidic platforms 
+### Integrated digital microfluidic platforms 
 
 <img src='/images/research/DMF_TOC.png' alt=''>
 
@@ -33,7 +33,7 @@ Yuqian Zhang. "A Digital Microfluidic Device Integrated with Electrochemical Imp
 
 [Article](https://www.mdpi.com/2079-6374/12/5/330){: .btn--research}
 
-# Integrated digital microfluidic platforms 
+### Integrated digital microfluidic platforms 
 
 <img src='/images/research/DMF_PMBC.png' alt=''>
 
