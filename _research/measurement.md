@@ -1,14 +1,14 @@
 ---
-title: "Measurement"
+title: "Electrochemical biosensor"
 layout: single-portfolio
-excerpt: "<img src='/images/research/Agreement-Strength.png' alt=''>"
+excerpt: "<img src='/images/research/EC_illustration.png' alt=''>"
 collection: research
 order_number: 30
 header: 
-  og_image: "research/Agreement-Strength.png"
+  og_image: "research/EC_illustration.png"
 ---
 
-In this set of projects, I use advanced quanitative methods to tackle the problem of more accurately measuring concepts of interest in international relations. One uses Bayesian latent variable models to directly assess the strength of peace agreements in civil conflict rather than having to use agreement duration as a proxy for strength. Another harnesses advances in big data and develops new measures of economic interdependence and methods for detecting disruptions of regular economic exchange between states from a product-level trade dataset with over two billion observations.
+Electrochemical sensing is a common detection method that measures the electron transfer associated with the oxidation/reduction rate in chemical reactions that occur on electrode surfaces. The sensor generally consists of three electrodes: working electrode (WE, where chemical reactions take place), counter electrode (CE, which carries the current with the WE) and reference electrode (RE, which measures the potential of the WE). Based on the types of signals to be measured, electrochemical sensors are mainly categorized into three types: current (voltammetry/amperometry), potential (potentiometry) and impedance (electrochemical impedance spectroscopy).
 
 ## Article
 
