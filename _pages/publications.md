@@ -2,6 +2,9 @@
 permalink: /publications/
 title: "Publications"
 ---
+### Multiplex Detection of Infectious Diseases on Microfluidic Platforms
+- Chen, F., Hu, Q., Li, H., Xie, Y., Xiu, L., Zhang, Y., Guo, X., and Yin, K., 2023. Biosensors, 13(3),p. 410 - [PDF](/files/pdf/research/paper14.pdf) - [Link](https://www.mdpi.com/2079-6374/13/3/410)
+
 ### A Digital Microfluidic Device Integrated with Electrochemical Impedance Spectroscopy for Cell-Based Immunoassay
 - Zhang, Y. and Liu, Y., 2022. Biosensors, 12(5), p.330. - [PDF](/files/pdf/research/paper13.pdf) - [Link](https://www.mdpi.com/2079-6374/12/5/330)
 
