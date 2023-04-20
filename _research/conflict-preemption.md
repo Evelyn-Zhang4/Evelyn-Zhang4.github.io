@@ -39,6 +39,6 @@ Yuqian Zhang. "A Digital Microfluidic Device Integrated with Electrochemical Imp
 
 ## Manuscript in preparation
 
-Rob Williams. "An integrated digital microfluidic device containing a three-dimensional matrix structure for electrochemical detection of soluble PD-L1 "
+Yuqian Zhang. "An integrated digital microfluidic device containing a three-dimensional matrix structure for electrochemical detection of soluble PD-L1 "
 
 > Immune checkpoint inhibitors have renovated cancer treatment by targeting the interaction between tumor cells and the host immune system. The programmed cell death protein 1 (PD-1) and its ligand PD-L1 are crucial checkpoint molecules that play a role in downregulating T cell activation, thus inhibiting antitumor immunity.Soluble programmed cell death protein 1 ligand (sPD-L1) is a truncated form of the PD-L1 protein that lacks the transmembrane and intracellular domains. It is released from tumor cells and has been identified to be a crucial element in evading the immune system. sPD-L1 attaches to PD-1 receptors on T cells and impedes their activity, leading to the promotion of tumor growth and metastasis. Elevated levels of sPD-L1 have been found in various cancers, including lung , breast, and gliomas, and have been linked to unfavorable treatment outcomes and a poor prognosis. Therefore, detection of sPD-L1 may provide clinicians with valuable information for patient selection, diagnosis, prognosis, and treatment response prediction.
