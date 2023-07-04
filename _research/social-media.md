@@ -24,4 +24,14 @@ Richard McAlexander, Rob Williams, and Michael Rubin. "They’re Still There, He
 
 [Working Paper](https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/61115b4018911da2f6dd1def/original/they-re-still-there-he-s-all-gone-american-fatalities-in-foreign-wars-and-right-wing-radicalization-at-home.pdf){: .btn--research} [Supplemental Information](https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/61115c914cb47968ba2bb2d8/original/appendix-for-they-re-still-there-he-s-all-gone-american-fatalities-in-foreign-wars-and-right-wing-radicalization-at-home.pdf){: .btn--research}
 
+<img src='/images/research/DMF_TOC.png' alt=''>
 
+## Nanopore 
+
+> Prompt, reliable and specific detection techniques in portable and easy-to-operate systems are of paramount importance to medical diagnosis, especially in emergencies such as pandemic outbreaks or in resource-limited settings. Point-of-care (POC) testing platforms can offer accurate screening in a timely manner, making these tools ideal under these circumstances. Digital microfluidics (DMF) is a fluid handling technology that enables programmable manipulation of discrete droplets (picoliter to microliter range) on a planar surface featured with electrodes, by changing the surface tension of droplets using electric fields. This technology allows user-defined droplet manipulation such as dispensing, mixing, splitting and merging, and thus the platform can be reconfigured for various assays. Although efforts have been undertaken to optimize the accuracy of fluid handling in DMF devices, implementing these devices for POC testing requires the integration of various detection techniques for on-chip assays. In this review, we highlight recent advancements in the integration of analytical tools into DMF devices, and discuss the current challenges and potential solutions as well as future outlooks for an automated, integrative platform for POC applications.
+
+[Article](https://pubs.rsc.org/en/content/articlehtml/2022/sd/d2sd00031h){: .btn--research}
+
+### Integrated digital microfluidic platforms 
+
+<img src='/images/research/DMF_TOC.png' alt=''>
