@@ -26,6 +26,5 @@ In summary, the application of Finite Element Analysis in microfluidics and elec
 [Article](https://pubs.rsc.org/en/content/articlehtml/2022/sd/d2sd00031h){: .btn--research}
 <img src='/images/research/NANOPORE_COMSOL.png' alt=''>
 
-### Integrated digital microfluidic platforms 
+### Nanopore 
 
-<img src='/images/research/DMF_TOC.png' alt=''>
