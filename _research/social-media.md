@@ -21,10 +21,23 @@ In summary, the application of Finite Element Analysis in microfluidics and elec
 
 ## Analysis of fluid performance and electric field distribution in Nanopore sensing
 
-> Prompt, reliable and specific detection techniques in portable and easy-to-operate systems are of paramount importance to medical diagnosis, especially in emergencies such as pandemic outbreaks or in resource-limited settings. Point-of-care (POC) testing platforms can offer accurate screening in a timely manner, making these tools ideal under these circumstances. Digital microfluidics (DMF) is a fluid handling technology that enables programmable manipulation of discrete droplets (picoliter to microliter range) on a planar surface featured with electrodes, by changing the surface tension of droplets using electric fields. This technology allows user-defined droplet manipulation such as dispensing, mixing, splitting and merging, and thus the platform can be reconfigured for various assays. Although efforts have been undertaken to optimize the accuracy of fluid handling in DMF devices, implementing these devices for POC testing requires the integration of various detection techniques for on-chip assays. In this review, we highlight recent advancements in the integration of analytical tools into DMF devices, and discuss the current challenges and potential solutions as well as future outlooks for an automated, integrative platform for POC applications.
+> Nanopore sensing involves the passage of fluids through a nanometer-scale pore, and understanding the fluid flow pattern is crucial for the analysis and interpretation of experimental results. By utilizing FEA, researchers can simulate and visualize the fluid flow within the nanopore system, providing insights into various important parameters such as velocity profiles, pressure distributions, and shear forces.
 
-[Article](https://pubs.rsc.org/en/content/articlehtml/2022/sd/d2sd00031h){: .btn--research}
+Here are some key reasons why FEA is beneficial in simulating fluid flow patterns in nanopore sensing:
+
+Complex geometries: Nanopore systems often feature intricate geometries, including asymmetric or irregularly shaped nanopores, microchannels, and electrode structures. FEA allows for the modeling of these complex geometries accurately, considering factors such as pore dimensions, surface roughness, and electrode configurations.
+
+Boundary conditions: FEA enables researchers to define appropriate boundary conditions for fluid flow simulations in nanopore sensing. This includes specifying the inlet and outlet conditions, surface properties, and any external forces or pressures acting on the system. By incorporating these conditions, researchers can mimic realistic experimental setups and obtain more reliable results.
+
+Flow behavior characterization: FEA provides detailed information about the fluid flow behavior, including laminar or turbulent flow, recirculation zones, and vortices within the nanopore system. This helps researchers understand how fluid flow affects parameters such as analyte capture, translocation velocity, and residence time, which are essential for optimizing nanopore sensing performance.
+
+Parameter optimization: FEA allows for the investigation and optimization of various design parameters in nanopore sensing, such as pore size, shape, and surface modifications. By simulating different scenarios and evaluating the fluid flow patterns, researchers can identify optimal designs that enhance sensitivity, selectivity, and detection accuracy.
+
+Validation and interpretation: FEA serves as a valuable tool for validating experimental observations and aiding in the interpretation of experimental data. By comparing simulated fluid flow patterns with experimental results, researchers can gain insights into the underlying mechanisms governing nanopore sensing and verify the accuracy of their models.
+
+### Fluid flow pattern for a 1 μm diameter pore in the near tip region with applied -/+30 V at the base in 1 mM KCl solution
 <img src='/images/research/NANOPORE_COMSOL.png' alt=''>
 
-### Nanopore 
+
+
 
