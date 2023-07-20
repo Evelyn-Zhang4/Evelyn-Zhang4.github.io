@@ -11,7 +11,7 @@ Yuqian Zhang (Ph.D.) is a post-doctoral research fellow working in the Center fo
  
 Dr. Zhang's primary area of expertise lies in the development of electronic-based biosensors, including nanopore and electrochemical biosensors, with the capability to non-invasively detect concentrations of cancerous microRNAs, soluble proteins, and extracellular markers with exceptional sensitivity and selectivity. Moreover, Dr. Zhang leverages the programmable and automated features of the digital microfluidic platform, integrating it with the electrochemical biosensor. This integration aims to track the dynamic trajectory of marker concentrations during therapeutic treatment, ultimately leading to personalized cancer treatments.
 
-#Education
+## Education
 
 Research Fellow, Mayo Clinic, Rochester, MN, USA.		(Jan. 2021 - present)
 
