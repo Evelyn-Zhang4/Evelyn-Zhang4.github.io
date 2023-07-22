@@ -11,6 +11,8 @@ Yuqian Zhang (Ph.D.) is a post-doctoral research fellow working in the Center fo
  
 Dr. Zhang's primary area of expertise lies in the development of electronic-based biosensors, including nanopore and electrochemical biosensors, with the capability to non-invasively detect concentrations of cancerous microRNAs, soluble proteins, and extracellular markers with exceptional sensitivity and selectivity. Moreover, Dr. Zhang leverages the programmable and automated features of the digital microfluidic platform, integrating it with the electrochemical biosensor. This integration aims to track the dynamic trajectory of marker concentrations during therapeutic treatment, ultimately leading to personalized cancer treatments.
 
+Dr. Zhang's research background encompasses multiple disciplines, including microfabrication, surface and bio-conjugation chemistry, and basic cell and molecular biology.
+
 ## Education
 
 Research Fellow, Mayo Clinic, Rochester, MN, USA.		(Jan. 2021 - present)
@@ -18,5 +20,24 @@ Research Fellow, Mayo Clinic, Rochester, MN, USA.		(Jan. 2021 - present)
 Ph.D in Electrical Engineering, University of Cincinnati, Cincinnati, OH, USA	  (Aug. 2015 - Oct.2020)
 
 B.S. in Electrical Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China  	(Sep. 2011 - Jun. 2015)
+
+## Positions and Scientific Appointments
+
+2021 -	Postdoctoral Researcher, Mayo Clinic
+2017 – 2020	Teaching Assistant, University of Cincinnati
+2017 – 2020	Student Member, Biophysical Society
+2016 – 2017	Student Member, IEEE
+2015 – 2020	Research Assistant, University of Cincinnati
+2013 – 2015	Research Assistant, University of Electronic Science and Technology of China
+ 
+## Honors
+
+2020  Graduate Student Engineer of the Month, University of Cincinnati
+2016	2nd Place in the Micro and Nanotechnology in Medicine Paper Competition
+2015 - 2020	University Graduate Scholarship, University of Cincinnati
+2011 - 2014	People’s Scholarship, University of Electronic Science and Technology of China
+
+
+
 
 
