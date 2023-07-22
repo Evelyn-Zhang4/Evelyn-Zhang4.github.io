@@ -24,18 +24,27 @@ B.S. in Electrical Engineering, University of Electronic Science and Technology 
 ## Positions and Scientific Appointments
 
 2021 -	Postdoctoral Researcher, Mayo Clinic
+
 2017 – 2020	Teaching Assistant, University of Cincinnati
+
 2017 – 2020	Student Member, Biophysical Society
+
 2016 – 2017	Student Member, IEEE
+
 2015 – 2020	Research Assistant, University of Cincinnati
+
 2013 – 2015	Research Assistant, University of Electronic Science and Technology of China
  
 ## Honors
 
 2020  Graduate Student Engineer of the Month, University of Cincinnati
+
 2016	2nd Place in the Micro and Nanotechnology in Medicine Paper Competition
+
 2015 - 2020	University Graduate Scholarship, University of Cincinnati
+
 2011 - 2014	People’s Scholarship, University of Electronic Science and Technology of China
+
 
 
 
