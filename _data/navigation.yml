@@ -10,8 +10,8 @@ main:
   - title: "Presentations"
     url: /teaching/
 
-  - title: "Posts"
-    url: /posts/
+  #- title: "Posts"
+  #  url: /posts/
     
   - title: "CV"
     url: /cv/
