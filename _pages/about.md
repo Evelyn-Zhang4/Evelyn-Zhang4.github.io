@@ -15,7 +15,7 @@ Dr. Zhang's research background encompasses multiple disciplines, including micr
 
 ## Education
 
-Research Fellow, Mayo Clinic, Rochester, MN, USA.		(Jan. 2021 - present)
+Research Fellow, Mayo Clinic, Rochester, MN, USA		(Jan. 2021 - present)
 
 Ph.D in Electrical Engineering, University of Cincinnati, Cincinnati, OH, USA	  (Aug. 2015 - Oct.2020)
 
@@ -23,27 +23,27 @@ B.S. in Electrical Engineering, University of Electronic Science and Technology 
 
 ## Positions and Scientific Appointments
 
-2021 -	Postdoctoral Researcher, Mayo Clinic
+Postdoctoral Researcher, Mayo Clinic  (2021 -	present)
 
-2017 – 2020	Teaching Assistant, University of Cincinnati
+Teaching Assistant, University of Cincinnati  (2017 – 2020)
 
-2017 – 2020	Student Member, Biophysical Society
+Student Member, Biophysical Society   (2017 – 2020)
 
-2016 – 2017	Student Member, IEEE
+Student Member, IEEE  (2016 – 2017)
 
-2015 – 2020	Research Assistant, University of Cincinnati
+Research Assistant, University of Cincinnati  (2015 – 2020)
 
-2013 – 2015	Research Assistant, University of Electronic Science and Technology of China
+Research Assistant, University of Electronic Science and Technology of China  (2013 – 2015)
  
 ## Honors
 
-2020  Graduate Student Engineer of the Month, University of Cincinnati
+Graduate Student Engineer of the Month, University of Cincinnati  (2020)
 
-2016	2nd Place in the Micro and Nanotechnology in Medicine Paper Competition
+2nd Place in the Micro and Nanotechnology in Medicine Paper Competition   (2016)
 
-2015 - 2020	University Graduate Scholarship, University of Cincinnati
+University Graduate Scholarship, University of Cincinnati   (2015 - 2020)
 
-2011 - 2014	People’s Scholarship, University of Electronic Science and Technology of China
+People’s Scholarship, University of Electronic Science and Technology of China  (2011 - 2014)
 
 
 
