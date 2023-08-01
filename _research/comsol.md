@@ -31,3 +31,11 @@ In summary, the application of Finite Element Analysis in microfluidics and elec
 
 ### 2D cross-section simulation of electric field distribution of IDEs at (i) 15 μm; (ii) 30 μm; (iii) 50 μm;
 <img src='/images/research/different IDE.png' alt=''>
+
+
+## Analysis of electric field distribution in electrochemical impedance spectroscopy (EIS) sensing platform
+
+> Analyzing the electric field distribution in an electrochemical impedance spectroscopy (EIS) sensing platform offers several key advantages. EIS is a powerful technique used to study the electrical properties of electrochemical systems. By analyzing the electric field distribution, researchers can gain insights into the interactions between analytes and electrodes. Understanding the spatial distribution of the electric field provides valuable information about the kinetics and mechanisms of the electrochemical processes occurring at the electrode surface. This knowledge is crucial for optimizing sensor performance and sensitivity. Additionally, studying the electric field distribution helps in the design and modification of electrodes to enhance the sensor's detection capabilities. It enables researchers to identify areas of high sensitivity and target specific regions for enhanced analyte capture and detection. By fine-tuning the electric field distribution, researchers can achieve improved selectivity and sensitivity in EIS sensing platforms.
+
+### 2D cross-section simulation of electric field distribution of IDEs at (i) 15 μm; (ii) 30 μm; (iii) 50 μm;
+<img src='/images/research/comsol_mixer.png' alt=''>
