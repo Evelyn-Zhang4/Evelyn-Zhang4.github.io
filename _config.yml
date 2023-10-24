@@ -211,10 +211,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _presentation
   - scope:
       path: ""
-      type: teaching
+      type: presentation
     values:
       layout: single
       author_profile: true
