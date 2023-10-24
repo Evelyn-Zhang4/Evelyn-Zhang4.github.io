@@ -15,8 +15,6 @@ Dr. Zhang's research background encompasses multiple disciplines, including micr
 
 ## Education
 
-Research Fellow, Mayo Clinic, Rochester, MN, USA		(Jan. 2021 - present)
-
 Ph.D in Electrical Engineering, University of Cincinnati, Cincinnati, OH, USA	  (Aug. 2015 - Oct.2020)
 
 B.S. in Electrical Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China  	(Sep. 2011 - Jun. 2015)
