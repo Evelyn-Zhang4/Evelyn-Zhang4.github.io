@@ -2,6 +2,9 @@
 permalink: /publications/
 title: "Publications"
 ---
+### Visual and Rapid Detection of Escherichia coli O157:H7 in Stool Samples by FTA Card-based Loop-mediated Isothermal Amplification
+- Chen, F., Wang, J.,Li, W., Zhang, Y., Xiu, L., Hu, Q., Ruan, Z., Chen, P. and Yin, K. Visual and Rapid Detection of Escherichia coli O157:H7 in Stool Samples by FTA Card-based Loop-mediated Isothermal Amplification. Zoonoses. 2023. Vol. 3(1). DOI: 10.15212/ZOONOSES-2023-0022 - [PDF](/files/pdf/research/paper15.pdf) - [Link](https://www.scienceopen.com/hosted-document?doi=10.15212/ZOONOSES-2023-0022#:~:text=The%20colorimetric%20LAMP%20method%20with,particularly%20in%20resource%2Dlimited%20settings.)
+
 ### Multiplex Detection of Infectious Diseases on Microfluidic Platforms
 - Chen, F., Hu, Q., Li, H., Xie, Y., Xiu, L., Zhang, Y., Guo, X., and Yin, K., 2023. Biosensors, 13(3),p. 410 - [PDF](/files/pdf/research/paper14.pdf) - [Link](https://www.mdpi.com/2079-6374/13/3/410)
 
