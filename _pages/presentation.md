@@ -2,7 +2,7 @@
 permalink: /presentation/
 title: "Presentations/Posters"
 ---
-### Biomedical Engineering Society, Oct. 11th – 14th 2023, Philadelphia, PA, USA
+### Biomedical Engineering Society, Oct. 11th – 14th 2023, Seattle, WA, USA
 - Titile: Digital Microfluidic System Integrated with Electrochemical Sensor for Multiplexed Monitoring of Immune Responses to Immunotherapy - [Slides](/files/pdf/teaching/2023 BMES _presentation.pdf) 
 
 ### 28th Annual Balfour Surgery Research Symposium, Nov 11th 2022, Rochester, MN, USA
