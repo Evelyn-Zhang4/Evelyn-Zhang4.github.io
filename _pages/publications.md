@@ -2,6 +2,9 @@
 permalink: /publications/
 title: "Publications"
 ---
+### A versatile microfluidic platform for malaria infection screening and Plasmodium species genotyping
+- Xiu, L., Li, H., Hu, Q., Zhang, Y., Xiu, Chen, S.B., Q., Wang, C.,, Zhou. X.N., Chen. J.H. and Yin, K. EBioMedicine. 2023. 98. DOI: https://doi.org/10.1016/j.ebiom.2023.104898 - [PDF](/files/pdf/research/paper16.pdf) - [Link](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00464-4/fulltext)
+
 ### Visual and Rapid Detection of Escherichia coli O157:H7 in Stool Samples by FTA Card-based Loop-mediated Isothermal Amplification
 - Chen, F., Wang, J.,Li, W., Zhang, Y., Xiu, L., Hu, Q., Ruan, Z., Chen, P. and Yin, K. Zoonoses. 2023. Vol. 3(1). DOI: 10.15212/ZOONOSES-2023-0022 - [PDF](/files/pdf/research/paper15.pdf) - [Link](https://www.scienceopen.com/hosted-document?doi=10.15212/ZOONOSES-2023-0022#:~:text=The%20colorimetric%20LAMP%20method%20with,particularly%20in%20resource%2Dlimited%20settings.)
 
