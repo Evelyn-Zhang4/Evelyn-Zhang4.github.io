@@ -2,6 +2,9 @@
 permalink: /publications/
 title: "Publications"
 ---
+### Alternations of antibiotic resistance genes and microbial community dynamics on shared bicycles before and after pandemic lockdown
+- Xiu, L., Li, Liu, H., Xie Y., Hu, Q., Li, H., Chen, F., Wang, C., Zhang, Y., Hou., L. and Yin, K. EBioMedicine. 2024. 169625. DOI: https://doi.org/10.1016/j.scitotenv.2023.169625 - [PDF](/files/pdf/research/paper17.pdf) - [Link](https://www.sciencedirect.com/science/article/pii/S0048969723082554)
+
 ### A versatile microfluidic platform for malaria infection screening and Plasmodium species genotyping
 - Xiu, L., Li, H., Hu, Q., Zhang, Y., Xiu, Chen, S.B., Q., Wang, C.,, Zhou. X.N., Chen. J.H. and Yin, K. EBioMedicine. 2023. 98. DOI: https://doi.org/10.1016/j.ebiom.2023.104898 - [PDF](/files/pdf/research/paper16.pdf) - [Link](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00464-4/fulltext)
 
