@@ -2,6 +2,9 @@
 permalink: /publications/
 title: "Publications"
 ---
+### A digital microfluidic device integrated with electrochemical sensor and 3D matrix for detecting soluble PD-L1
+- Y. Zhang, J. Liu, T.W. Lo, Y. Kim, F. Lucien, H. Dong, and Y. Liu. Biosensors and Bioelectronics: X. 2024. 169625. DOI: https://doi.org/10.1016/j.biosx.2024.100490 - [PDF](/files/pdf/research/paper18.pdf) - [Link](https://www.sciencedirect.com/science/article/pii/S2590137024000542)
+
 ### Alternations of antibiotic resistance genes and microbial community dynamics on shared bicycles before and after pandemic lockdown
 - Xiu, L., Li, Liu, H., Xie Y., Hu, Q., Li, H., Chen, F., Wang, C., Zhang, Y., Hou., L. and Yin, K. EBioMedicine. 2024. 169625. DOI: https://doi.org/10.1016/j.scitotenv.2023.169625 - [PDF](/files/pdf/research/paper17.pdf) - [Link](https://www.sciencedirect.com/science/article/pii/S0048969723082554)
 
