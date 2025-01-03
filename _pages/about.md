@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yuqian Zhang (Ph.D.) is a Microfluidic Engineer working in the Genus/Intelligen, Windsor WI. 
- 
+Yuqian Zhang (Ph.D.) is an Electrical Engineer working in Lam research, Tualatin, OR.  
+
 Dr. Zhang's primary area of expertise lies in the development of electronic-based biosensors, including nanopore and electrochemical biosensors, with the capability to non-invasively detect concentrations of cancerous microRNAs, soluble proteins, and extracellular markers with exceptional sensitivity and selectivity. Moreover, Dr. Zhang leverages the programmable and automated features of the digital microfluidic platform, integrating it with the electrochemical biosensor. This integration aims to track the dynamic trajectory of marker concentrations during therapeutic treatment, ultimately leading to personalized cancer treatments.
 
-Dr. Zhang's research background encompasses multiple disciplines, including microfabrication, surface and bio-conjugation chemistry, and basic cell and molecular biology.
+
+## Dr. Zhang's research background encompasses multiple disciplines, including microfabrication, surface and bio-conjugation chemistry, and basic cell and molecular biology.
 
 ## Education
 
